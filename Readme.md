@@ -6,4 +6,7 @@
 # agregado en la rama1
 # segunda linea agregada en rama1
 
+# agregado en rama2
+# agregado en rama2 mensaje2
+
 
